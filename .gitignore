@@ -1,0 +1,7 @@
+/ConsoleApplication14/*.vcxproj
+/ConsoleApplication14/ConsoleApplication14.vcxproj.filters
+/ConsoleApplication14/*.user
+/*.sln
+/.vs/ConsoleApplication14/v15/ipch/*.ipch
+/.vs/ConsoleApplication14/v15/*.opendb
+/.vs/ConsoleApplication14/v15/*.db
